@@ -10,3 +10,10 @@
 # 이용약관
 - 운영자가 계정 사용 정지를 할때 해당자에게 미리 통보하지 않습니다.
 - 운영자가 계정 삭제를 할때 해당자에게 미리 통보하지 않습니다.
+
+
+
+# 오픈소스 라이선스 
+- CircleIndicator
+  https://github.com/ongakuer/CircleIndicator
+  Apache License, Version 2.0
